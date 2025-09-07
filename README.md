@@ -1,1 +1,1 @@
-# Quiz_Application
+A responsive quiz application built with HTML, CSS, and JavaScript. This interactive web app presents users with multiple-choice questions, providing instant feedback on their answers. Features include randomized question order, smooth CSS animations, and adaptive design for seamless usability across devices. This project demonstrates proficiency in front-end development techniques, offering an engaging learning experience through dynamic content and user-friendly interface.
